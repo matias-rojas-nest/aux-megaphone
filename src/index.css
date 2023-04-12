@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.css-zxdg2z{
+  padding: 0px !important;
+}
+
+.css-1f2xuhi-MuiDrawer-docked .MuiDrawer-paper{
+  background: rgb(28, 37, 54)
+}
+
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper, .css-wf16b5 {
+  background: rgb(28, 37, 54) !important
+
+}
+
+.css-yfo96e, .css-1v5u2yv {
+  padding: 0px !important ;
+}
+
+.css-ttn1xo{
+  display: flex;
+}
+
+.dockVContainer [dock=bottom], .logoBar {
+  display: none !important;
+  background: red;
+}
+
+.img-login{
+  margin: 10px auto;
+  width: 50%;
+}
+
+img{ 
+  width: 100%;
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+
+}
